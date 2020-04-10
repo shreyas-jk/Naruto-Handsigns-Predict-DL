@@ -1,0 +1,8 @@
+0 - bird
+1 - dragon
+2 - horse
+3 - monkey
+4 - dog
+5 - Ox
+6 -  serpent
+7 - ram
