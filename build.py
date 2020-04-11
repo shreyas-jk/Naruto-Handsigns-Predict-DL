@@ -5,7 +5,6 @@ from keras import backend as K
 from keras import optimizers
 import json
 
-# dimensions of our images.
 image_width, image_height = 64, 64
 if K.image_data_format() == 'channels_first':
     input_shape = (1, image_width, image_height)
