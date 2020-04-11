@@ -13,12 +13,11 @@ else:
 
 train_dir = 'dataset/train'                #input
 validation_dir = 'dataset/test'            #input
-
-
 train_samples = 5830                        #input
 validation_samples = 5830                    #input
-epochs = 30
+
 batch_size = 16
+epochs = 30
 
 model = Sequential()
 model.add(Conv2D(64, (3, 3), input_shape=input_shape))
