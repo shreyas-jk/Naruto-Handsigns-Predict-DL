@@ -2,6 +2,6 @@
 
 
 
-![GIF](https://s2.gifyu.com/images/ezgif.com-gif-makerc0ce80a68c23fed2.gif)
+![GIF](https://github.com/shreyas-jk/Naruto-Handsigns-Predict-DL/blob/master/demo.gif)
 
 
